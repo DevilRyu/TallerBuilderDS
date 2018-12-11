@@ -2,7 +2,7 @@ package SolucionBuilder;
 
 public class ComputadorDirector {
 
-	private ComputadoraBuilder builder ;
+	protected ComputadoraBuilder builder ;
 	
 	public ComputadorDirector (ComputadoraBuilder builder) {
 		this.builder = builder;
