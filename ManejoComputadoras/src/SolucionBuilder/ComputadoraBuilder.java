@@ -1,7 +1,5 @@
 package SolucionBuilder;
 
-import emsamablajecomputadoras.creacional.*;
-
 
 public abstract class ComputadoraBuilder {
 protected Computador c;

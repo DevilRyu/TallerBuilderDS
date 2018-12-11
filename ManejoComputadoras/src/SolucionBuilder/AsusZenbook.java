@@ -1,5 +1,4 @@
 package SolucionBuilder;
-import emsamablajecomputadoras.creacional.*;
 
 
 public class AsusZenbook extends ComputadoraBuilder{
